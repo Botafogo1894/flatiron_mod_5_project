@@ -31,7 +31,7 @@ https://github.com/lewi0332/flatiron_mod_5_project/wiki
 
 <object data="https://raw.githubusercontent.com/lewi0332/flatiron_mod_5_project/82c45118f455f78e758873f54437c94e34699793/visuals/Test_may_14.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://yoursite.com/the.pdfhttps://raw.githubusercontent.com/lewi0332/flatiron_mod_5_project/82c45118f455f78e758873f54437c94e34699793/visuals/Test_may_14.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/lewi0332/flatiron_mod_5_project/82c45118f455f78e758873f54437c94e34699793/visuals/Test_may_14.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
