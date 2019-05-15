@@ -12,6 +12,7 @@ The newest content producers have large audiences and strong credibility. A prod
 
 Fohr connects brands with influencers. Modern marketing departments are building relationships with social media personalities in order to advertise their products. But this new frontier is vast and uncontrolled. Fohr provides trust for brands and linfluencers and filters this world into credible players.
 
+**Brief** 
 
 Create a sophisticated recommendation system of the influencers on the Fohr platform.  Brand clients find the search for new partnerships to be cumbersome. Finding the perfect spokesperson for your brand is very challenging. 
 This recommender system should consider 
