@@ -29,9 +29,22 @@ For full details on the process and methods in this project please view the wiki
 
 https://github.com/lewi0332/flatiron_mod_5_project/wiki
 
+[Intro.pdf](http://lewi0332.github.io/flatiron_mod_5_project/visuals/Test_may_14.pdf)
+
 <object data="https://raw.githubusercontent.com/lewi0332/flatiron_mod_5_project/82c45118f455f78e758873f54437c94e34699793/visuals/Test_may_14.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://yoursite.com/the.pdfhttps://raw.githubusercontent.com/lewi0332/flatiron_mod_5_project/82c45118f455f78e758873f54437c94e34699793/visuals/Test_may_14.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/lewi0332/flatiron_mod_5_project/82c45118f455f78e758873f54437c94e34699793/visuals/Test_may_14.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
+
+<?php
+  $dir = 'https://raw.githubusercontent.com/lewi0332/flatiron_mod_5_project/82c45118f455f78e758873f54437c94e34699793/visuals/';
+  $name = 'Test_may_14.pdf';
+  exec("/bin/convert $dir$name $dir$name.png");
+  print '<img src="$dir$name.png" />';
+?>
+
+
+<div class="pdf-container loaded" data-file="https://raw.githubusercontent.com/lewi0332/flatiron_mod_5_project/82c45118f455f78e758873f54437c94e34699793/visuals/Test_may_14.pdf" data-worker="/assets/pdf/worker-de03a6262fe73d7da5661d85cbb46962.js" data-bcmap-dir="https://render.githubusercontent.com/pdf/">
+<canvas class="pdf-page" data-page="0" height="1500" width="2000"></canvas><canvas class="pdf-page" data-page="1" height="1500" width="2000"></canvas><canvas class="pdf-page" data-page="2" height="1500" width="2000"></canvas><canvas class="pdf-page" data-page="3" height="1500" width="2000"></canvas><canvas class="pdf-page" data-page="4" height="1500" width="2000"></canvas></div>
